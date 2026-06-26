@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
@@ -22,4 +23,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
