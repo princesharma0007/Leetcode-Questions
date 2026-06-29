@@ -24,13 +24,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
