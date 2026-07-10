@@ -29,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0067-add-binary) |
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0058-length-of-last-word) |
