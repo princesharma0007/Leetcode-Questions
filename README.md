@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0136-single-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/princesharma0007/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0067-add-binary) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/princesharma0007/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/princesharma0007/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
@@ -78,5 +80,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/princesharma0007/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/princesharma0007/Leetcode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
