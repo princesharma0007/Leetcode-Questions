@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0877-stone-game](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princesharma0007/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0169-majority-element) |
 ## Number Theory
 |  |
 | ------- |
@@ -94,4 +97,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0877-stone-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
