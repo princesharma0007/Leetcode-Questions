@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0877-stone-game](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/princesharma0007/Leetcode-Questions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princesharma0007/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0069-sqrtx) |
 ## Sorting
 |  |
 | ------- |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/princesharma0007/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
