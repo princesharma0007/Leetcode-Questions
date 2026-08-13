@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/princesharma0007/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
 ## Simulation
 |  |
 | ------- |
