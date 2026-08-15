@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/princesharma0007/Leetcode-Questions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princesharma0007/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/princesharma0007/Leetcode-Questions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princesharma0007/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/princesharma0007/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/princesharma0007/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Number Theory
 |  |
