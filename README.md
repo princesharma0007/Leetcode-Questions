@@ -169,11 +169,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0112-path-sum) |
 | [0733-flood-fill](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [3310-remove-methods-from-project](https://github.com/princesharma0007/Leetcode-Questions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0112-path-sum) |
 | [0733-flood-fill](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [3310-remove-methods-from-project](https://github.com/princesharma0007/Leetcode-Questions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -197,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0231-power-of-two) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
