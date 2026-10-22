@@ -74,6 +74,7 @@ int lastStoneWeight(int* stones, int stonesSize) {
             diff = firstmax - secondmax;
             insert(diff);
         }
+        
     }
     if (size == 0) return 0;
 
