@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0733-flood-fill](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0877-stone-game) |
+| [1046-last-stone-weight](https://github.com/princesharma0007/Leetcode-Questions/tree/master/1046-last-stone-weight) |
 | [1406-stone-game-iii](https://github.com/princesharma0007/Leetcode-Questions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princesharma0007/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/princesharma0007/Leetcode-Questions/tree/master/3731-find-missing-elements) |
@@ -207,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0112-path-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/princesharma0007/Leetcode-Questions/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
