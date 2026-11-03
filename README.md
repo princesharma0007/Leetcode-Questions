@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/princesharma0007/Leetcode-Questions/tree/master/1046-last-stone-weight) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [3731-find-missing-elements](https://github.com/princesharma0007/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princesharma0007/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0061-rotate-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
