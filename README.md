@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0877-stone-game) |
@@ -224,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
