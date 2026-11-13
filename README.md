@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [1046-last-stone-weight](https://github.com/princesharma0007/Leetcode-Questions/tree/master/1046-last-stone-weight) |
 | [1406-stone-game-iii](https://github.com/princesharma0007/Leetcode-Questions/tree/master/1406-stone-game-iii) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/princesharma0007/Leetcode-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0905-sort-array-by-parity](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/princesharma0007/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/princesharma0007/Leetcode-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3731-find-missing-elements](https://github.com/princesharma0007/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Number Theory
